@@ -1,0 +1,48 @@
+h1 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgba(91, 151, 86, 0.966);
+    font-weight: black;
+    font-size: 79px;
+    Line-Height: 79px
+    
+    }
+h2 {
+    font-family: cursive;
+    font-size: 34px;
+    font-weight: bold;
+color:rgb(235, 112, 118)
+
+}
+
+h3 {
+
+    font-family: cursive;
+    color: rgb(235, 201, 11);
+    font-size: 34px;
+    font-weight:bold;
+      
+}
+
+li {
+    font-size: 21px;
+    font-weight:600px;
+    line-height:21px * 1.61;
+
+}
+p {
+    text-decoration: black;
+    vertical-align: baseline;
+
+}
+
+ h3 {
+     font-size: 20px;
+     font-weight:600px;
+ }
+  :hover{
+     background-color:rgb(204, 230, 204);
+     color: #000;
+  
+
+ }
+
